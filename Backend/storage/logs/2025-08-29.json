@@ -1,0 +1,392 @@
+[
+  {
+    "timestamp": "2025-08-29T01:52:24.810Z",
+    "sessionId": "60f335c5-1f85-4bed-b29d-f4efea74e60d",
+    "modelType": "llm",
+    "modelName": "gpt-4o-mini",
+    "inputTokens": 63,
+    "outputTokens": 100,
+    "cost": 0.00006945,
+    "metadata": {
+      "totalTokens": 163,
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "messageId": "3af0b1a4-a66f-47dc-b0cf-1d63b99566d0",
+    "sessionId": "60f335c5-1f85-4bed-b29d-f4efea74e60d",
+    "timestamp": "2025-08-29T01:52:29.953Z",
+    "userText": "Around the world, bloggers are becoming target of violence and censorship. In order to protect the bloggers, what argument would you present?\n",
+    "botResponse": "To effectively advocate for the protection of bloggers against violence and censorship, several key arguments can be presented:\n\n1. **Freedom of Expression**: Blogging is a form of expression that is fundamental to democracy and human rights. Protecting bloggers ensures that diverse voices and perspectives can be heard, fostering a more informed and engaged society. Censorship undermines this principle and stifles public discourse.\n\n2. **Role in Accountability**: Bloggers often serve as watchdogs, holding governments, corporations, and institutions",
+    "audioDuration": 4788,
+    "sessionStats": {
+      "totalCost": 0.00006945,
+      "totalInputTokens": 63,
+      "totalOutputTokens": 100
+    }
+  },
+  {
+    "timestamp": "2025-08-29T01:57:58.631Z",
+    "sessionId": "05943180-9233-4d57-8f59-449748198f53",
+    "modelType": "llm",
+    "modelName": "gpt-4o-mini",
+    "inputTokens": 57,
+    "outputTokens": 100,
+    "cost": 0.00006855,
+    "metadata": {
+      "totalTokens": 157,
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "messageId": "e9b51389-53cd-4e53-8517-5ee9a2dcd3d9",
+    "sessionId": "05943180-9233-4d57-8f59-449748198f53",
+    "timestamp": "2025-08-29T01:58:01.399Z",
+    "userText": "In which context you can help me? I mean, in which context you can also help me?\n",
+    "botResponse": "I can assist you in a variety of contexts, including but not limited to:\n\n1. **Information and Research**: Providing detailed explanations, summaries, or insights on a wide range of topics, including science, history, technology, and more.\n\n2. **Education and Learning**: Helping with study tips, explanations of concepts, and assistance with homework or academic projects.\n\n3. **Writing and Editing**: Offering guidance on writing essays, reports, creative writing, and providing feedback or editing suggestions.\n\n",
+    "audioDuration": 2759,
+    "sessionStats": {
+      "totalCost": 0.00006855,
+      "totalInputTokens": 57,
+      "totalOutputTokens": 100
+    }
+  },
+  {
+    "timestamp": "2025-08-29T02:01:25.977Z",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "modelType": "llm",
+    "modelName": "gpt-4o-mini",
+    "inputTokens": 129,
+    "outputTokens": 100,
+    "cost": 0.00007934999999999999,
+    "metadata": {
+      "totalTokens": 229,
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "messageId": "c22a3d64-6326-48e8-8821-c9b50d6696c8",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "timestamp": "2025-08-29T02:01:28.388Z",
+    "userText": "Around the world, bloggers are becoming target of violence and censorship because of topics they cover. Some are arrested for defamation and others are forced to reveal their source. And many face constant online harassment. Despite this, bloggers remain one of the most important voice for accountability, truth and democracy. If you had to speak at an international human rights conference, what strong argument would you like to present to show why protecting bloggers is necessary for a free, open society?\n",
+    "botResponse": "Ladies and gentlemen, esteemed colleagues, and advocates for human rights,\n\nToday, I stand before you to address a critical issue that lies at the intersection of freedom of expression, democracy, and human rights: the protection of bloggers. In an era where information is power, bloggers have emerged as vital voices for accountability, truth, and democratic engagement. However, they increasingly face violence, censorship, and harassment simply for exercising their right to speak.\n\n**1. The Role of Bloggers in Democracy:**\nBloggers",
+    "audioDuration": 2402,
+    "sessionStats": {
+      "totalCost": 0.00007934999999999999,
+      "totalInputTokens": 129,
+      "totalOutputTokens": 100
+    }
+  },
+  {
+    "timestamp": "2025-08-29T02:03:08.086Z",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "modelType": "llm",
+    "modelName": "gpt-4o-mini",
+    "inputTokens": 45,
+    "outputTokens": 100,
+    "cost": 0.00006675,
+    "metadata": {
+      "totalTokens": 145,
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "messageId": "f09f8d0c-0141-4a0c-b690-4ea56539f42c",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "timestamp": "2025-08-29T02:03:13.314Z",
+    "userText": "Hi, tell me about the locals.\n",
+    "botResponse": "To provide you with the most relevant information about \"the locals,\" it would be helpful to know which specific location or community you are referring to. Different regions and cultures have their own unique characteristics, traditions, and ways of life. \n\nFor example, if you are asking about the locals in a specific city or country, I can share insights about their customs, lifestyle, language, and social dynamics. If you have a particular area in mind, please let me know, and I’ll be glad to",
+    "audioDuration": 4562,
+    "sessionStats": {
+      "totalCost": 0.00006675,
+      "totalInputTokens": 45,
+      "totalOutputTokens": 100
+    }
+  },
+  {
+    "timestamp": "2025-08-29T02:05:05.760Z",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "modelType": "llm",
+    "modelName": "gpt-4o-mini",
+    "inputTokens": 43,
+    "outputTokens": 100,
+    "cost": 0.00006644999999999999,
+    "metadata": {
+      "totalTokens": 143,
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "messageId": "281d52da-4b83-45fa-a1e4-ac85f06d6129",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "timestamp": "2025-08-29T02:05:08.313Z",
+    "userText": "Tell me about the bloggers.\n",
+    "botResponse": "Bloggers are individuals who create and maintain blogs, which are online platforms where they share their thoughts, experiences, expertise, or interests on various topics. The blogging landscape is diverse, encompassing a wide range of genres, styles, and purposes. Here are some key aspects to consider about bloggers:\n\n### Types of Bloggers\n\n1. **Personal Bloggers**: These individuals share personal stories, experiences, and insights about their lives. Their blogs often serve as a digital diary or a way to connect with others who",
+    "audioDuration": 2431,
+    "sessionStats": {
+      "totalCost": 0.00006644999999999999,
+      "totalInputTokens": 43,
+      "totalOutputTokens": 100
+    }
+  },
+  {
+    "timestamp": "2025-08-29T02:07:52.843Z",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "modelType": "llm",
+    "modelName": "gpt-4o-mini",
+    "inputTokens": 98,
+    "outputTokens": 100,
+    "cost": 0.0000747,
+    "metadata": {
+      "totalTokens": 198,
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "messageId": "dff81fdc-ce22-498c-9477-63524e76ef20",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "timestamp": "2025-08-29T02:07:56.843Z",
+    "userText": "Around the world bloggers are becoming target of censorship because of the topic they cover. Some are arrested for defamation, there are forced to reveal their source and many face constant online harassment. Tell me to protect the bloggers, what argument would you place if you are talking in front of international human rights conference?\n",
+    "botResponse": "Ladies and gentlemen, esteemed colleagues, and advocates for human rights,\n\nToday, I stand before you to address a pressing issue that threatens the very fabric of our democratic societies: the censorship and persecution of bloggers around the world. In an age where information flows freely and the voices of the marginalized can be amplified, it is disheartening to witness the systematic targeting of those who dare to speak truth to power.\n\nFirst and foremost, we must recognize that freedom of expression is a fundamental human right, enshr",
+    "audioDuration": 2991,
+    "sessionStats": {
+      "totalCost": 0.0000747,
+      "totalInputTokens": 98,
+      "totalOutputTokens": 100
+    }
+  },
+  {
+    "timestamp": "2025-08-29T02:13:38.681Z",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "modelType": "llm",
+    "modelName": "gpt-4o-mini",
+    "inputTokens": 43,
+    "outputTokens": 50,
+    "cost": 0.00003645,
+    "metadata": {
+      "totalTokens": 93,
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "messageId": "3d219f9c-f397-4a80-88ea-d332c2a5ad96",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "timestamp": "2025-08-29T02:13:43.037Z",
+    "userText": "Tell me about the below.\n",
+    "botResponse": "It seems like you might have intended to provide specific information or a topic for me to discuss, but I don't see any details in your message. Could you please clarify or provide more context about what you would like to know? I'm here to help!",
+    "audioDuration": 3130,
+    "sessionStats": {
+      "totalCost": 0.00003645,
+      "totalInputTokens": 43,
+      "totalOutputTokens": 50
+    }
+  },
+  {
+    "timestamp": "2025-08-29T02:18:37.782Z",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "modelType": "llm",
+    "modelName": "gpt-4o-mini",
+    "inputTokens": 60,
+    "outputTokens": 100,
+    "cost": 0.000069,
+    "metadata": {
+      "totalTokens": 160,
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "messageId": "d3a29c63-5f4a-44bb-ab26-886073c6c95f",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "timestamp": "2025-08-29T02:18:40.412Z",
+    "userText": "Around the world, bloggers are becoming target of violence and censorship. To protect the bloggers, good organ video plays.\n",
+    "botResponse": "The rise of violence and censorship against bloggers around the world is a concerning trend that highlights the challenges faced by those who seek to express their opinions and share information freely. Bloggers often play a crucial role in promoting transparency, accountability, and social change, but they can also become targets for their views, especially in regions where freedom of speech is limited.\n\nTo protect bloggers, various organizations and initiatives have emerged, focusing on advocacy, legal support, and awareness-raising. Here are some key points regarding the protection",
+    "audioDuration": 2616,
+    "sessionStats": {
+      "totalCost": 0.000069,
+      "totalInputTokens": 60,
+      "totalOutputTokens": 100
+    }
+  },
+  {
+    "timestamp": "2025-08-29T02:23:44.556Z",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "modelType": "llm",
+    "modelName": "gpt-4o-mini",
+    "inputTokens": 67,
+    "outputTokens": 100,
+    "cost": 0.00007005,
+    "metadata": {
+      "totalTokens": 167,
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "messageId": "8ecbe125-80ea-4e65-9f59-4a6c83ce2347",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "timestamp": "2025-08-29T02:23:48.249Z",
+    "userText": "Around the world, Europe is becoming a target of violence and censorship. To protect the world, what argument would you place in front of human rights?\n",
+    "botResponse": "The situation in Europe, where violence and censorship are becoming more prevalent, raises significant concerns regarding human rights. To protect and promote human rights in this context, one could argue the following points:\n\n1. **Universal Human Rights Framework**: Human rights are universal and inalienable, meaning they apply to all individuals regardless of their location. The European Convention on Human Rights and other international treaties establish a framework that obligates states to protect the rights of individuals, including freedom of expression, assembly, and the",
+    "audioDuration": 2675,
+    "sessionStats": {
+      "totalCost": 0.00007005,
+      "totalInputTokens": 67,
+      "totalOutputTokens": 100
+    }
+  },
+  {
+    "timestamp": "2025-08-29T02:27:59.922Z",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "modelType": "llm",
+    "modelName": "gpt-4o-mini",
+    "inputTokens": 44,
+    "outputTokens": 46,
+    "cost": 0.0000342,
+    "metadata": {
+      "totalTokens": 90,
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "messageId": "d50f7da7-f0a1-4795-94db-bb6fce7decf0",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "timestamp": "2025-08-29T02:28:04.716Z",
+    "userText": "Tell me about the below curse.\n",
+    "botResponse": "It seems like you might have forgotten to include the specific curse you want to know about. Could you please provide more details or specify which curse you are referring to? This will help me give you a more accurate and informative response.",
+    "audioDuration": 2810,
+    "sessionStats": {
+      "totalCost": 0.0000342,
+      "totalInputTokens": 44,
+      "totalOutputTokens": 46
+    }
+  },
+  {
+    "timestamp": "2025-08-29T02:29:43.912Z",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "modelType": "llm",
+    "modelName": "gpt-4o-mini",
+    "inputTokens": 79,
+    "outputTokens": 100,
+    "cost": 0.00007185,
+    "metadata": {
+      "totalTokens": 179,
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "messageId": "41ae4089-3927-442c-99ea-063aefe6081e",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "timestamp": "2025-08-29T02:29:46.586Z",
+    "userText": "Around the world, bloggers are becoming a target of violence and censorship because of the topic they cover. They are arrested for defamation. Others are forced to reveal their source to protect the bloggers what is necessary.\n",
+    "botResponse": "The situation for bloggers around the world is increasingly precarious, particularly in regions where freedom of expression is under threat. Many bloggers face violence, censorship, and legal repercussions due to the topics they cover, which often include sensitive issues such as politics, human rights, corruption, and social justice.\n\n### Violence and Intimidation\nIn some countries, bloggers who criticize the government or powerful entities can become targets of violence. This can range from harassment and threats to physical attacks or even murder. For instance,",
+    "audioDuration": 2657,
+    "sessionStats": {
+      "totalCost": 0.00007185,
+      "totalInputTokens": 79,
+      "totalOutputTokens": 100
+    }
+  },
+  {
+    "timestamp": "2025-08-29T02:35:13.949Z",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "modelType": "llm",
+    "modelName": "gpt-4o-mini",
+    "inputTokens": 80,
+    "outputTokens": 80,
+    "cost": 0.000059999999999999995,
+    "metadata": {
+      "totalTokens": 160,
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "messageId": "399e3b4c-1f61-40eb-bb9d-ceaa1cec1e32",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "timestamp": "2025-08-29T02:35:17.080Z",
+    "userText": "Around the world bloggers are becoming a target of violence and censorship. To protect the bloggers, what would you present? What would you put the argument in front of human rights societies?\n",
+    "botResponse": "To protect bloggers, I would propose several measures. First, advocate for stronger legal protections against violence and censorship. This includes urging governments to uphold freedom of expression laws. \n\nSecond, promote digital security training for bloggers to safeguard their online presence. This can help them avoid harassment and attacks.\n\nThird, establish international support networks. These networks can provide resources, legal assistance, and safe havens for threatened bloggers",
+    "audioDuration": 2707,
+    "sessionStats": {
+      "totalCost": 0.000059999999999999995,
+      "totalInputTokens": 80,
+      "totalOutputTokens": 80
+    }
+  },
+  {
+    "timestamp": "2025-08-29T02:41:55.679Z",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "modelType": "llm",
+    "modelName": "gpt-4o-mini",
+    "inputTokens": 81,
+    "outputTokens": 76,
+    "cost": 0.000057749999999999994,
+    "metadata": {
+      "totalTokens": 157,
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "messageId": "9cc2ffc6-b6bd-4b1a-be1f-0431bed3cd96",
+    "sessionId": "f49958ee-e010-4f00-8117-94cb690f2993",
+    "timestamp": "2025-08-29T02:42:01.176Z",
+    "userText": "Around the world, beloggers are becoming a target of violence and censorship. To protect the beloggers, what would you present? What would you put the argument in front of human rights societies?\n",
+    "botResponse": "To protect beloggers, I would advocate for stronger legal protections that ensure freedom of expression and safeguard against violence and censorship. I would present evidence of the risks they face, emphasizing the importance of their role in promoting transparency and accountability. Additionally, I would urge human rights societies to actively monitor and report abuses, provide support networks, and lobby for international standards that protect digital rights.",
+    "audioDuration": 4233,
+    "sessionStats": {
+      "totalCost": 0.000057749999999999994,
+      "totalInputTokens": 81,
+      "totalOutputTokens": 76
+    }
+  },
+  {
+    "timestamp": "2025-08-29T19:07:38.922Z",
+    "sessionId": "84da622c-afed-4633-886b-92b75fd3c856",
+    "modelType": "llm",
+    "modelName": "gpt-4o-mini",
+    "inputTokens": 60,
+    "outputTokens": 83,
+    "cost": 0.00005879999999999999,
+    "metadata": {
+      "totalTokens": 143,
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "messageId": "06423ff3-451f-4478-b453-48e643dbaf11",
+    "sessionId": "84da622c-afed-4633-886b-92b75fd3c856",
+    "timestamp": "2025-08-29T19:07:45.303Z",
+    "userText": "What is fine tuning? How it is done? And on which model can you do fine tuning?\n",
+    "botResponse": "Fine-tuning is the process of taking a pre-trained machine learning model and adjusting it on a smaller, task-specific dataset to improve its performance for that particular task. This is typically done by continuing the training process with a lower learning rate on the new dataset. Fine-tuning can be performed on various models, including large language models like BERT, GPT, and computer vision models like ResNet or VGG.",
+    "audioDuration": 5346,
+    "sessionStats": {
+      "totalCost": 0.00005879999999999999,
+      "totalInputTokens": 60,
+      "totalOutputTokens": 83
+    }
+  },
+  {
+    "timestamp": "2025-08-29T19:08:34.051Z",
+    "sessionId": "84da622c-afed-4633-886b-92b75fd3c856",
+    "modelType": "llm",
+    "modelName": "gpt-4o-mini",
+    "inputTokens": 51,
+    "outputTokens": 82,
+    "cost": 0.00005685,
+    "metadata": {
+      "totalTokens": 133,
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "messageId": "6074ed23-bead-4793-b952-21e0b62865de",
+    "sessionId": "84da622c-afed-4633-886b-92b75fd3c856",
+    "timestamp": "2025-08-29T19:08:38.310Z",
+    "userText": "What is fine-tuning? How it is done?\n",
+    "botResponse": "Fine-tuning is the process of taking a pre-trained machine learning model and further training it on a specific dataset to improve its performance on a particular task. This is typically done by adjusting the model's weights using a smaller learning rate and a dataset that is more relevant to the desired application. The goal is to adapt the model's general knowledge to the nuances of the new data while retaining its previously learned features.",
+    "audioDuration": 4101,
+    "sessionStats": {
+      "totalCost": 0.00005685,
+      "totalInputTokens": 51,
+      "totalOutputTokens": 82
+    }
+  }
+]
