@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  backend:
+    image: basebot2:latest
+    container_name: basebot-backend-container
+    ports:
+      - "4000:5000"
+    environment:
+      - NODE_ENV=production
+    # removed volume mount that overwrote node_modules inside the image
+    command: npm start
+    networks:
+      - basebot2-network
+    restart: unless-stopped
+
+  frontend:
+    image: basebot:latest
+    container_name: basebot-frontend-container
+    ports:
+      - "3000:5173"
+    depends_on:
+      - backend
+    environment:
+      - VITE_API_URL=http://localhost:5000
+    networks:
+      - basebot2-network
+    restart: unless-stopped
+
+networks:
+  basebot2-network:
+    driver: bridge
+
+
